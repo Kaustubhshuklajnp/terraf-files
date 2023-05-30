@@ -11,6 +11,3 @@ resource "aws_instance" "linux" {
       date = "29"
     }
 }
-resource "" "name" {
-  
-}
